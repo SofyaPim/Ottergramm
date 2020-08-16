@@ -30,7 +30,11 @@ body {
     background:
         #7CCED9;
 }
-
+h3{
+    color: aliceblue;
+    font-size: 1.2rem;
+    margin: 2% 10%;
+}
 a {
 
     text-decoration: none;
